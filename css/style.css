@@ -1,0 +1,291 @@
+body {
+    background-color: lightblue;
+}
+
+.h1 {
+    text-align: center;
+    font-size: 25px;
+    background-color: greenyellow;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+}
+
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    color: green;
+}
+
+th,
+td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #333;
+    color: #fff;
+}
+
+
+legend {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+i {
+    font-style: italic;
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: #0077b5;
+}
+
+abbr {
+    border-bottom: 1px dashed #999;
+    cursor: help;
+}
+
+dl {
+    margin-left: 40px;
+}
+
+em {
+    font-style: italic;
+}
+
+acronym {
+    text-decoration: underline;
+}
+
+address {
+    font-style: italic;
+    color: #555;
+}
+
+input[type="text"] {
+    border: 1px solid #999;
+}
+
+ins {
+    background-color: #d4edda;
+}
+
+kbd {
+    font-family: monospace;
+    padding: 2px 4px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+}
+
+label {
+    font-weight: bold;
+}
+
+area {
+    cursor: pointer;
+}
+
+article {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+aside {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+b {
+    font-weight: bold;
+}
+
+base {
+    color: #ff6600;
+}
+
+basefont {
+    font-size: 20px;
+}
+
+bdi {
+    font-weight: bold;
+    font-style: italic;
+}
+
+bdo {
+    font-weight: bold;
+    text-align: right;
+}
+
+big {
+    font-size: 24px;
+}
+
+blockquote {
+    border-left: 2px solid #999;
+    padding-left: 10px;
+    margin-left: 20px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+canvas {
+    border: 1px solid #000;
+}
+
+caption {
+    font-weight: bold;
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 5px;
+}
+
+center {
+    text-align: center;
+}
+
+cite {
+    font-style: italic;
+}
+
+code {
+    font-family: monospace;
+    background-color: #f2f2f2;
+    padding: 2px 4px;
+    border: 1px solid #ccc;
+}
+
+col {
+    background-color: yellow;
+}
+
+colgroup col {
+    background-color: red;
+}
+
+data {
+    border: 1px solid #999;
+    padding: 2px;
+}
+
+datalist {
+    border: 1px solid #999;
+    padding: 5px;
+}
+
+dd {
+    font-style: italic;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+details {
+    border: 1px solid #999;
+    padding: 5px;
+}
+
+dfn {
+    font-weight: bold;
+}
+
+dialog {
+    border: 1px solid #999;
+    padding: 10px;
+}
+
+dir li {
+    list-style-type: square;
+}
+
+div {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+tt {
+    font-family: monospace;
+}
+
+u {
+    text-decoration: underline;
+}
+
+span {
+    color: #007bff;
+}
+
+strike {
+    text-decoration: line-through;
+}
+
+strong {
+    font-weight: bold;
+}
+
+sub {
+    vertical-align: sub;
+}
+
+summary {
+    font-weight: bold;
+}
+
+sup {
+    vertical-align: super;
+}
+
+var {
+    font-style: italic;
+    background-color: #f2f2f2;
+    padding: 2px 4px;
+}
+
+footer {
+    background-color: #9a11fbe3;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
